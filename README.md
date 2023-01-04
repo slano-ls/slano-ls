@@ -12,8 +12,8 @@
   </p>
   
 </samp>
-
-  <!--START_SECTION:waka-->
+<p align="center">
+<!--START_SECTION:waka-->
 
 ```text
 C            55 mins         █████████████░░░░░░░░░░░░   51.95 %
@@ -24,3 +24,4 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</p>
