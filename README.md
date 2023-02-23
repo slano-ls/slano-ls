@@ -24,6 +24,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 </p>
 
-<picture>
+
 ![Snake animation](https://github.com/slano-ls/slano-ls/blob/output/github-contribution-grid-snake.svg)
-</picture>
+
