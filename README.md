@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://amplication.com/#gh-light-mode-only">
-<img width="300" src="https://raw.githubusercontent.com/slano-ls/Group\ 1.png#gh-light-mode-only">
+<img width="600" src="https://raw.githubusercontent.com/slano-ls/Group\ 1.png#gh-light-mode-only">
 </a>
 <a href="https://amplication.com/#gh-dark-mode-only">
-<img width="300" src="https://github.com/slano-ls/slano-ls/blob/main/Group%201.png#gh-dark-mode-only">
+<img width="600" src="https://github.com/slano-ls/slano-ls/blob/main/Group%201.png#gh-dark-mode-only">
 </a>
 </p>
 
