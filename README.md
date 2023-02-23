@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://amplication.com/#gh-light-mode-only">
+<img width="300" src="https://raw.githubusercontent.com/slano-ls/Group 1.png#gh-light-mode-only">
+</a>
+<a href="https://amplication.com/#gh-dark-mode-only">
+<img width="300" src="https://raw.githubusercontent.com/slano-ls/Group 1.png#gh-dark-mode-only">
+</a>
+</p>
+
+
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Saihaj Law</a></b></samp></h3>
 <p align="center"><br>
   <samp>
