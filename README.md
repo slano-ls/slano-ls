@@ -5,7 +5,7 @@
   <samp>
     「 Student and Computer Science Enthusiast @ Ancaster High School </b> 」<br>
   </samp>
-</p>
+ </p>
 
 ### Low Level C Programming
 
@@ -28,5 +28,8 @@
 
 
 <p align="center">
+ <figure>
   <img width="860" height="200" src="https://github.com/slano-ls/slano-ls/blob/output/github-contribution-grid-snake.svg">
+  <figcaption>Github Snake Contribution Calendar</figcaption>
+ </figure>
 </p>
