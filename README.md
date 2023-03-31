@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/5.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/1.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/2.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/3.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/4.png" width="20%"/>
+<img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/1.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/3.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/2.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/5.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/4.png" width="20%"/>
 
 <p align="center">
   <img width="860" height="200" src="https://github.com/slano-ls/slano-ls/blob/output/github-contribution-grid-snake.svg">
