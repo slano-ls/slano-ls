@@ -19,7 +19,6 @@
 - **[Grep](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%201.C)** A Grep Clone in C
 - **[Head & Tail](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%206_2.C)** A Linux Head & Tail Replacement
 - **[Ping](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%207.C)** A Ping Utility in C
-- 
 ### Emacs hacking
 
 
