@@ -1,11 +1,14 @@
-<h1 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://saihaj-laws-wondrous-site.webflow.io">Saihaj Law</a></b></samp></h1>
 
- 
-  <p align="center"><br>
+<h1 align="center">
+Hello! I am <a rel="nofollow noopener noreferrer" target="_blank" href="https://saihaj-laws-wondrous-site.webflow.io">Saihaj Law</a></samp></h1>
+  <h3 align = "center">
   <samp>
-    「 Student and Computer Science Enthusiast @ Ancaster High School </b> 」<br>
+ 
+ 「 Student and Computer Science Enthusiast @ Ancaster High School<b> 」</br>
   </samp>
  </p>
+</h3>
+<br>
 
 ### Low Level C Programming
 
