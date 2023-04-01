@@ -13,12 +13,15 @@
 - **[Terminal Tutor](https://github.com/slano-ls/TerminalTutor)** A VimTutor Clone for Terminal Commands
 - **[Vim Everywhere](https://github.com/slano-ls/SketchyVim)** A MacOS Replacement for Vim Everywhere
 - **[Wifi Scan in C](https://github.com/slano-ls/External-Projects/blob/main/wifiscan.c)** A WiFi Scanner Utility for the Terminal
-- **[Top](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%205_3.C)** A Top Command Clone
 - **[Audio Player in C](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%203.C)** A Simple C Audio Player
 - **[Ant Colony Optimization](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%2011.C)** Ant Colony Optimization in C
+
+### Linux Command Suite
+- **[Top](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%205_3.C)** A Top Command Clone
 - **[Grep](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%201.C)** A Grep Clone in C
 - **[Head & Tail](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%206_2.C)** A Linux Head & Tail Replacement
 - **[Ping](https://github.com/slano-ls/365_Days_of_Code/blob/main/Day%207.C)** A Ping Utility in C
+
 ### Emacs hacking
 
 - **[Emacs Configuration](https://github.com/slano-ls/Doom-Emacs-Config)** Personal Emacs Configuration
