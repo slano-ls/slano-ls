@@ -35,6 +35,8 @@ Hello! I am <a rel="nofollow noopener noreferrer" target="_blank" href="https://
 <br/>
 
 <img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/1.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/3.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/2.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/5.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/4.png" width="20%"/>
+<br>
+<img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/7.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/9.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/6.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/10.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/8.png" width="20%"/>
 
 
 <p align="center">
