@@ -2,10 +2,7 @@
 <h1 align="center">
 Hello! I am <a rel="nofollow noopener noreferrer" target="_blank" href="https://saihaj-laws-wondrous-site.webflow.io">Saihaj Law</a></samp></h1>
   <h3 align = "center">
-  <samp>
- 
  「 Student and Computer Science Enthusiast @ Ancaster High School<b> 」</br>
-  </samp>
  </p>
 </h3>
 <br>
@@ -32,7 +29,7 @@ Hello! I am <a rel="nofollow noopener noreferrer" target="_blank" href="https://
 ### Emacs hacking
 
 - **[Emacs Configuration](https://github.com/slano-ls/Doom-Emacs-Config)** Personal Emacs Configuration
-<br/>
+
 <hr>
 <img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/1.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/3.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/2.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/5.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/4.png" width="20%"/>
 <img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/7.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/9.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/6.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/10.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/8.png" width="20%"/>
