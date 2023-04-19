@@ -7,7 +7,7 @@ Hello! I am <a rel="nofollow noopener noreferrer" target="_blank" href="https://
 </h3>
 <br>
 
-<h3>Things I code With</h3>
+<h3>How to Find Me</h3>
 
 
 
