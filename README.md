@@ -38,9 +38,3 @@ Hello! I am <a rel="nofollow noopener noreferrer" target="_blank" href="https://
 <img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/7.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/9.png" width="20%"><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/6.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/10.png" width="20%"/><img src="https://raw.githubusercontent.com/slano-ls/slano-ls/master/8.png" width="20%"/>
 <hr>
 
-<p align="center">
- <figure align ="center">
-  <img align = "center" width="860" height="200" src="https://github.com/slano-ls/slano-ls/blob/output/github-contribution-grid-snake.svg">
-  <figcaption>Github Snake</figcaption>
- </figure>
-</p>
